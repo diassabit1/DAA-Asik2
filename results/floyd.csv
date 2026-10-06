@@ -1,0 +1,9 @@
+method,n,time_ms
+insert,100,0.1327
+floyd,100,0.3856
+insert,1000,0.3963
+floyd,1000,0.1330
+insert,10000,2.5874
+floyd,10000,1.3184
+insert,100000,6.7287
+floyd,100000,3.5330
